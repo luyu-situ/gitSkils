@@ -8,5 +8,5 @@ this is dev tager
 test origin dev branch
 local modify
 test set upstream
-test machine1
-test merge2
+test machine
+test merge
