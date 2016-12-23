@@ -9,3 +9,4 @@ test origin dev branch
 local modify
 test set upstream
 test machine
+test merge
